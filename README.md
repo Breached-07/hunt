@@ -31,6 +31,12 @@
           hunt <IP_ADDRESS>  
           ```
           <!-- look into the hunt --help page-->
+## NOTE : 
+     if there is a issue is related to the line-ending characters
+     dos2unix hunt.py
+     then run the script           
+          
+          
                    
           
  
