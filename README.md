@@ -32,9 +32,11 @@
           ```
           <!-- look into the hunt --help page-->
 ## NOTE : 
-     if there is a issue is related to the line-ending characters
+     if there is a issue is related to the line-ending characters 
+     RUN the following command 
      dos2unix hunt.py
-     then run the script           
+     
+then run the script           
           
           
                    
